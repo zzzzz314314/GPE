@@ -79,7 +79,7 @@ long long arr[MAX_n];
 std::vector <long long> solution_stack; // find one solution
 std::vector <std::vector<long long>> return_stack; // record all the solutions
 
-void print_stack(int ind)
+void backtrack(int ind)
 {
     if (LIS[ind] == 1){
         // we found the start of the longest increasing sequence
@@ -102,7 +102,7 @@ void print_stack(int ind)
         if ((LIS[prev] + 1 == LIS[ind]) && (arr[prev] < arr[ind]))
         {
             solution_stack.push_back(arr[ind]);
-            print_stack(prev);
+            backtrack(prev);
             solution_stack.pop_back();
         }
     }
@@ -151,7 +151,7 @@ int main(void)
             if (LIS[i] == longest_len)
             {
                 // std::cout << "ending with ind: " << i << std::endl;
-                print_stack(i);
+                backtrack(i);
             }
         // print
         std::cout << return_stack.size() << std::endl;
