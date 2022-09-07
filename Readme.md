@@ -49,7 +49,9 @@ Problems from https://gpe-helper.setsal.dev/problems
 [10655 Sumsets.cpp](https://github.com/zzzzz314314/GPE/blob/master/10655%20Sumsets.cpp)  
 [24941 Uncompress.cpp](https://github.com/zzzzz314314/GPE/blob/master/24941%20Uncompress.cpp)  
 10429: Contest Scoreboard  
-10533:The Trip
+10533:The Trip  
+10520:Conformity  
+10531: Zipf's Law    
 - #### famous problems
 [21944 Power Crisis.cpp](https://github.com/zzzzz314314/GPE/blob/master/21944%20Power%20Crisis.cpp), Joseph  
 10607:Joseph's Cousin  
