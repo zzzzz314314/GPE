@@ -12,8 +12,7 @@ Problems from https://gpe-helper.setsal.dev/problems
 11179:Wavio Sequence  
 - #### Binary Tree
 10605:Count the Trees  
-- #### Maze
-22171: Dungeon Master  
+- #### Maze  
 2015-07:Minimum Path Sum  
 - #### others
 [10468 Maximum Product.cpp](https://github.com/zzzzz314314/GPE/blob/master/10468%20Maximum%20Product.cpp)  
@@ -29,7 +28,7 @@ Problems from https://gpe-helper.setsal.dev/problems
 [2015-03 Sudoku.cpp](https://github.com/zzzzz314314/GPE/blob/master/2015-03%20Sudoku.cpp)  
 10418:Minesweeper  
 25081:Solving Maze Problems  
-
+22171: Dungeon Master  
 - #### String parse
 [10503 Show the Sequence.cpp](https://github.com/zzzzz314314/GPE/blob/master/10503%20Show%20the%20Sequence.cpp)  
 2008-06:Parser and evaluator  
