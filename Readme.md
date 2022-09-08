@@ -42,8 +42,8 @@ Problems from https://gpe-helper.setsal.dev/problems
 - #### connectivity
 [10600 Network Connections.cpp](https://github.com/zzzzz314314/GPE/blob/master/10600%20Network%20Connections.cpp)
 - #### Others
-10636:Gopher II  
-10644:The Tourist Guide  
+[10636:Gopher II (max bipartite matching with Hungarian Algorithm)](https://github.com/zzzzz314314/GPE/blob/master/Problem%20A%20Gopher%20II.cpp)  
+[10644:The Tourist Guide (max capacity road with adapted Floyd Warshall)](https://github.com/zzzzz314314/GPE/blob/master/10644%20The%20Tourist%20Guide.cpp)  
 
 ## Others
 - #### basic
