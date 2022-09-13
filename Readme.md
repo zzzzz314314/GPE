@@ -8,10 +8,10 @@ Problems from https://gpe-helper.setsal.dev/problems
 [22181 Dollars.cpp](https://github.com/zzzzz314314/GPE/blob/master/22181%20Dollars.cpp)
 - #### Longest Common Subsequence
 [11017 Longest Common Subsequence.cpp](https://github.com/zzzzz314314/GPE/blob/master/11017%20Longest%20Common%20Subsequence.cpp)  
-10658:Is Bigger Smarter?  
-11179:Wavio Sequence  
+[10658:Is Bigger Smarter?](https://github.com/zzzzz314314/GPE/blob/master/10658%20Is%20Bigger%20Smarter.cpp)    
+[11179:Wavio Sequence](https://github.com/zzzzz314314/GPE/blob/master/11179%20Wavio%20Sequence.cpp)   
 - #### Binary Tree
-10605:Count the Trees  
+[10605:Count the Trees](https://github.com/zzzzz314314/GPE/blob/master/10605%20Count%20the%20Trees.cpp)    
 - #### Maze  
 2015-07:Minimum Path Sum  
 - #### others
@@ -19,7 +19,7 @@ Problems from https://gpe-helper.setsal.dev/problems
 [2015-09 Longest Increasing Subsequence.cpp](https://github.com/zzzzz314314/GPE/blob/master/2015-09%20Longest%20Increasing%20Subsequence.cpp)  
 [2015-08 Climbing Stairs.cpp](https://github.com/zzzzz314314/GPE/blob/master/2015-08%20Climbing%20Stairs.cpp)  
 [2008-28 Longest monotonically increasing subsequence.cpp](https://github.com/zzzzz314314/GPE/blob/master/2008-28%20Longest%20monotonically%20increasing%20subsequence.cpp)  
-10500: Brick Wall Patterns  
+[10500: Brick Wall Patterns](https://github.com/zzzzz314314/GPE/blob/master/10500%20Brick%20Wall%20Patterns.cpp)     
 10633: Take the Land  
 11174:Homer Simpson  
 
@@ -58,4 +58,4 @@ Problems from https://gpe-helper.setsal.dev/problems
 [21944 Power Crisis.cpp](https://github.com/zzzzz314314/GPE/blob/master/21944%20Power%20Crisis.cpp), Joseph  
 10607:Joseph's Cousin  
 [24931 Extend to Palindromes.cpp](https://github.com/zzzzz314314/GPE/blob/master/24931%20Extend%20to%20Palindromes.cpp), KMP  
-10559:I Love Big Numbers !  
+[10559:I Love Big Numbers !](https://github.com/zzzzz314314/GPE/blob/master/10559%20I%20love%20Big%20Numbers.cpp)   
