@@ -30,11 +30,11 @@ Problems from https://gpe-helper.setsal.dev/problems
 - #### Maze
 [2015-03 Sudoku.cpp](https://github.com/zzzzz314314/GPE/blob/master/2015-03%20Sudoku.cpp)  
 [25081:Solving Maze Problems](https://github.com/zzzzz314314/GPE/blob/master/25081%20Solving%20Maze%20Problems.cpp)  
-22171: Dungeon Master  
+[22171: Dungeon Master](https://github.com/zzzzz314314/GPE/blob/master/22171%20Dungeon%20Master.cpp)  
 - #### String parse
 [10503 Show the Sequence.cpp](https://github.com/zzzzz314314/GPE/blob/master/10503%20Show%20the%20Sequence.cpp)  
 2008-06:Parser and evaluator  
-2008-37: Prefix expression evaluation   
+[2008-37: Prefix expression evaluation](https://github.com/zzzzz314314/GPE/blob/master/2008-37%20Prefix%20expression%20evaluation.cpp)    
 
 - #### Tree
 [2009-17: Binary tree traversals](https://github.com/zzzzz314314/GPE/blob/master/2009-17%20Binary%20tree%20traversals.cpp)    
