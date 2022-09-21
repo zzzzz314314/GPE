@@ -5,7 +5,7 @@ Problems from https://gpe-helper.setsal.dev/problems
 [10603 Cutting Sticks](https://github.com/zzzzz314314/GPE/blob/master/10603%20Cutting%20Sticks.cpp)
 - #### 0-1 knapsack
 [10621 Luggage](https://github.com/zzzzz314314/GPE/blob/master/10621%20Luggage.cpp)   
-[2008-19 Set partition]  
+[2008-19 Set partition](https://github.com/zzzzz314314/GPE/blob/master/2008-19%20Set%20partition.cpp)  
 [22181 Dollars](https://github.com/zzzzz314314/GPE/blob/master/22181%20Dollars.cpp)
 - #### Longest Common Subsequence
 [11017 Longest Common Subsequence](https://github.com/zzzzz314314/GPE/blob/master/11017%20Longest%20Common%20Subsequence.cpp)  
